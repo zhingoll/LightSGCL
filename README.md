@@ -5,7 +5,7 @@ A novel Graph Contrast Learning method combining Single Feature Fusion Graph Con
 ## Key Components
 
 1. **LightSGCL Implementation**: The core implementation of the LightSGCL can be found in the `LightSGCL.py` file. This file contains the main architecture and algorithmic logic of the model.
-2. **Column Vector Orthogonal Noise**: The CVON feature augmentation method is implemented in the `construct_noise_matrix` method within `loss_torch.py`.
+2. **Column Vector Orthogonal Noise**: The CVON feature augmentation method is implemented in the `construct_noise_matrix` method within `LightSGCL.py`.
 
 ### Configuration and Execution
 
